@@ -1,0 +1,10 @@
+mr: 785
+elizabeth: 635
+very: 486
+darcy: 417
+such: 392
+mrs: 343
+much: 327
+more: 324
+bennet: 323
+bingley: 306

@@ -1,0 +1,4 @@
+dog: 4
+cat: 3
+ball: 2
+apple: 1
